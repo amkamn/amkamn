@@ -112,12 +112,12 @@ self.__precacheManifest = [
     "url": "/fonts/MaterialIcons-Regular.96c47680.eot"
   },
   {
-    "revision": "0509ab09c1b0d2200a4135803c91d6ce",
-    "url": "/fonts/MaterialIcons-Regular.0509ab09.woff2"
-  },
-  {
     "revision": "29b882f018fa6fe75fd338aaae6235b8",
     "url": "/fonts/MaterialIcons-Regular.29b882f0.woff"
+  },
+  {
+    "revision": "0509ab09c1b0d2200a4135803c91d6ce",
+    "url": "/fonts/MaterialIcons-Regular.0509ab09.woff2"
   },
   {
     "revision": "d120c85b6eb0549d60483e2980033c15",
@@ -128,7 +128,7 @@ self.__precacheManifest = [
     "url": "/img/logo.cffaec92.png"
   },
   {
-    "revision": "0cc44db1d4a3e3373f4aecf50b0f5c24",
+    "revision": "3953a414ccb968e532e1c356376c91d9",
     "url": "/index.html"
   },
   {
